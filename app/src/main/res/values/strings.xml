@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">The Great Multiplier</string>
+    <string name="num_prompt">Escolhe um tempo em Seg:</string>
+    <string-array name="num_array">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>60</item>
+    </string-array>
+
+    <string name="num_questions">Escolhe quantas perguntas:</string>
+    <string-array name="num_arrayquestions">
+        <item>10</item>
+        <item>35</item>
+        <item>60</item>
+        <item>100</item>
+    </string-array>
+    <string name="help_info">!The Great Multiplier!
+        \n\nVá às Configurações introduzir modos de jogo e tabuadas a treinar para poder disfrutar da mais épica sensação de aprendizagem.\n\n\nResponda às perguntas introduzindo o valor correto no campo pedido para poder concluir a aprendizagem selecionada\n\n\n Aplicação fornecida por:\n        Daniel Miguel e Diogo Carvalho LDA.</string>
+</resources>
